@@ -1,4 +1,4 @@
-# Web-design---project
+# Fitness mania
 webiste for fitness enthusiasts
 
 
