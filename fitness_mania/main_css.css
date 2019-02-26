@@ -4,3 +4,66 @@
   padding-right:0px;
   padding-top: 300px;
 }
+
+/*contact page */
+
+#contacts_page h1{
+  color: #FFF68F;
+  font-size: 30px;
+  margin-left: 80px;
+}
+#contacts_page ul{
+  font-size: 20px;
+  margin-left: 120px;
+}
+#contacts_page b{
+  color: #4EEE94;
+}
+#contacts_page li{
+  color: white;
+}
+
+
+/* audio_instructions */
+.audio_instructions {
+  color:#00F5FF;
+}
+
+/* audio player */
+#backgroundaudio {
+  display: block;
+  position: fixed;
+  bottom: -43px;
+  left: 5px;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  }
+  #backgroundaudio:hover {
+  bottom: 0;
+  -webkit-transition: all 1s ease-in-out;
+  -moz-transition: all 1s ease-in-out;
+  -ms-transition: all 1s ease-in-out;
+  -o-transition: all 1s ease-in-out;
+  transition: all 1s ease-in-out;
+  }
+  #backgroundaudio audio {
+  background: red;
+  padding: 5px;
+  display: table-cell;
+  vertical-align: middle;
+  height: 43px;
+  z-index: 9998;
+  }
+  #backgroundaudio i {
+  font-size: 40px;
+  display: block;
+  background: green;
+  padding: 5px;
+  width: 50px;
+  float: none;
+  margin-bottom: -1px;
+  z-index: 9999;
+  }
