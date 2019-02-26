@@ -4,13 +4,21 @@ body {
 }
 
 #heading_of_page {
-  margin-left: 250px;
-  margin-top: 10px;
-  font-size: 30px;
+  margin-left: 50px;
+  margin-top: 0px;
+  font-size: 60px;
+  border-color: aquamarine;
   font-style: oblique;
   font-family: fantasy;
   color:aquamarine;
 }
+
+#logo {
+  clip-path: circle(40px at center);
+  margin-left: 50px;
+  margin-top:2  5px;
+}
+
 #epigraph {
   margin-left: 355px;
   font-style: italic;
