@@ -1,0 +1,25 @@
+/* css only for home page */
+
+
+
+#home_page h2{
+  color:#E0FFFF;
+  margin-left: 200px;
+}
+#home_page h4 {
+  background-color: #FFE4C4;
+  color:black;
+  width:300px;
+  margin-left: 270px;
+  padding-left: 90px;
+}
+#home_text {
+  background-color: lightblue;
+  width: 500px;
+  border: 25px solid brown;
+  padding: 25px;
+  margin-left: 180px;
+  margin-top: 10px;
+  color: green;
+  clip-path: circle(300px at center);
+}

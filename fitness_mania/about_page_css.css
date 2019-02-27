@@ -1,4 +1,17 @@
+/* css only for about_page */
+
 #about_page h1 {
   padding-left: 550px;
-  color: orange;
+  color: black;
+}
+
+
+.about_content div {
+  background-color: lightblue;
+  width: 600px;
+  border: 25px solid grey;
+  padding: 25px;
+  margin-left: 300px;
+  margin-top: 100px;
+  color: brown;
 }

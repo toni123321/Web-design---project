@@ -2,7 +2,7 @@
   color:green;
   padding-left: 1060px;
   padding-right:0px;
-  padding-top: 300px;
+  padding-top: 100px;
 }
 
 /*contact page */
@@ -27,6 +27,7 @@
 /* audio_instructions */
 .audio_instructions {
   color:#00F5FF;
+  margin-left:0px;
 }
 
 /* audio player */
