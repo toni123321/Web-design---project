@@ -1,0 +1,30 @@
+
+h1{
+  color:lightblue;
+}
+
+li {
+  margin-bottom: 30px;
+  color:green;
+  background-color:white;
+  width:150px;
+  padding-left: 40px;
+}
+
+#cable_crossover{
+    background-color: brown;
+    margin-right: 450px;
+    margin-left: 280px;
+    padding-left: 30px;
+    clip-path: circle(260px at center);
+    color:white;
+}
+
+
+img {
+  float: left;
+  clear:left;
+  margin-right: 10px;
+  border:solid black 1px;
+  padding:2px;
+}
