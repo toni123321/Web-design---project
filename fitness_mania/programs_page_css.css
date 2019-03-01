@@ -1,0 +1,24 @@
+h1 {
+  color:blue;
+  padding-left: 550px;
+}
+h3, p {
+  color:#FFE4B5; 
+}
+
+.programs_exc_image {
+  float:right;
+  margin-right: 80px;
+  border:solid brown 3px;
+  padding:2px;
+}
+ol {
+  margin-top:50px;
+  border:solid blue  10px;
+  width:750px;
+}
+li {
+    margin-bottom: 220px;
+    font-size: 20px;
+    color:white;
+}
